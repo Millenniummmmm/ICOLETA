@@ -1,5 +1,6 @@
 Projeto ICOLETA -> Hardware. (ANOTAÇÕES DE DESENVOLVIMENTO)
 Link da Balança no Simulador: https://wokwi.com/projects/411140355181046785
+Link do SERVO: https://wokwi.com/projects/411231435386760193
 
 OBSERVAÇÕES:
 1. Corrigir o erro da calibração da balança se houver algum erro desse tipo quando começar na prática ao sair do simulador;
