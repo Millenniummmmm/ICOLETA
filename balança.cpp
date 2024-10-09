@@ -2,7 +2,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include "HX711.h"
-
+//BALANÇA AINDA ESTÁ BUGADA 
 #define SCREEN_WIDTH 128 // Largura do display
 #define SCREEN_HEIGHT 64  // Altura do display
 #define OLED_RESET    -1  // Reset não utilizado
