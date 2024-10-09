@@ -6,6 +6,6 @@ OBSERVAÇÕES:
 2. Um dos arquivos está gerando QRCODE via arduino, por favor, verificar o nome dos arquivos para não copiar errado;
 3. Testar o código adaptado para ESP32 para a geração do QRCODE no DISPLAY OLED;
 DIRECIONAMENTOS:
-   1.  Procurar soluções para a transmissão de dados do QRCODE ( Pontuação ) para o site do ICOLETA;
-   2.  Montar um mecanismo com um SERVO MOTOR maior para empurrar o lixo para algum local de armazenamento adequado após os pontos serem registrados na conta da pessoa;
+1.  Procurar soluções para a transmissão de dados do QRCODE ( Pontuação ) para o site do ICOLETA;
+2.  Montar um mecanismo com um SERVO MOTOR maior para empurrar o lixo para algum local de armazenamento adequado após os pontos serem registrados na conta da pessoa;
    
