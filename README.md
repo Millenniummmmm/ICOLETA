@@ -9,3 +9,4 @@ DIRECIONAMENTOS:
 1.  Procurar soluções para a transmissão de dados do QRCODE ( Pontuação ) para o site do ICOLETA;
 2.  Montar um mecanismo com um SERVO MOTOR maior para empurrar o lixo para algum local de armazenamento adequado após os pontos serem registrados na conta da pessoa;
    
+infelizmente consigo
